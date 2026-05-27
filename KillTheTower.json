@@ -1,0 +1,11 @@
+{
+  "id": "KillTheTower",
+  "name": "KillTheTower",
+  "author": "YouHaveTrouble",
+  "description": "Makes the game way less serious.",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}
