@@ -1,0 +1,18 @@
+{
+  "ASCENDERS_BANE.description": "Here, have an extra card.\n\nIs this anything?",
+  "ASCENDERS_BANE.title": "Ascender's Blessing",
+  "FEED.description": "Deal {Damage:diff()} damage.\nIf [gold]Fatal[/gold], raise your Max HP by {MaxHp:diff()}. You are legally obligated to proc this at any cost.",
+  "HAND_OF_GREED.description": "Deal {Damage:diff()} damage.\nIf [gold]Fatal[/gold], gain {Gold:diff()} [gold]Gold[/gold]. You are legally obligated to proc this at any cost.",
+  "THE_HUNT.description": "Deal {Damage:diff()} damage.\nIf [gold]Fatal[/gold], gain an additional card reward. You are legally obligated to proc this at any cost.",
+  "GIANT_ROCK.title": "Slightly Larger Than Normal Rock",
+  "RELAX.title": "Low Cortisol",
+  "PROLONG.title": "Budget Barricade",
+  "JACKPOT.title": "GAMBA",
+  "CREATIVE_AI.title": "Generative AI",
+  "MONOLOGUE.title": "Yap",
+  "BIG_BANG.title": "Big Bang Theory",
+  "I_AM_INVINCIBLE.title": "I Am Invisible",
+  "GRAND_FINALE.title": "Never Gonna Play This Finale",
+  "CORROSIVE_WAVE.title": "Aggressive Farting",
+  "PRIMAL_FORCE.title": "Rock and Stone"
+}
