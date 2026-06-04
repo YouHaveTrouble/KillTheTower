@@ -5,3 +5,5 @@ godotpcktool \
   --action add --remove-prefix staging \
   --file staging/KillTheTower
 cp ./KillTheTower.json ./target/KillTheTower.json
+
+zip -r target/KillTheTower.zip target/*
