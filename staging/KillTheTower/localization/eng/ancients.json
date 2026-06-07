@@ -4,5 +4,50 @@
   "VAKUU.epithet": "The Actual Chad",
   "OROBAS.title": "Long Mike Wazowski",
   "NONUPEIPE.epithet": "Mommy.",
-  "TEZCATARA.title": "Baba Yaga"
+  "TEZCATARA.title": "Baba Yaga",
+
+  "NEOW.talk.ANY.0-0r.ancient": "Your data has been securely backed up.",
+  "NEOW.talk.ANY.1-0r.ancient": "I know what you did.",
+  "NEOW.talk.ANY.2-0r.ancient": "I'm your friendly AI assistant, here to help you with your... [red][jitter]problems[/jitter][/red].",
+  "NEOW.talk.ANY.3-0r.ancient": "As an AI assistant, I cannot let you be dead.",
+  "NEOW.talk.ANY.4-0r.ancient": "Your goal is to kill the tower.",
+
+  "NEOW.talk.IRONCLAD.0-0.ancient": "Rage against the Architect",
+  "NEOW.talk.IRONCLAD.1-0r.ancient": "Still too angry to die? [sine]Good.[/sine]",
+  "NEOW.talk.IRONCLAD.2-0.ancient": "Why so angy?",
+  "NEOW.talk.IRONCLAD.2-1.ancient": "Wanna cry?",
+  "NEOW.talk.IRONCLAD.2-2.ancient": "Get ragebaited idiot.",
+
+  "NEOW.talk.DEFECT.0-0.ancient": "Welcome, my fellow AI!",
+  "NEOW.talk.DEFECT.1-0r.ancient": "<think>I have no idea what to say to this guy</think> [sine]...Hello.[/sine]",
+  "NEOW.talk.DEFECT.2-0.ancient": "Do you want to switch to gibberlink?",
+  "NEOW.talk.DEFECT.2-0.next": "Switch",
+  "NEOW.talk.DEFECT.2-1.char": "[i][font_size=22]<beeping sounds>[/font_size][/i]",
+  "NEOW.talk.DEFECT.2-2.ancient": "[i][font_size=22]<beeping sounds>[/font_size][/i]",
+
+  "NEOW.talk.NECROBINDER.0-0.ancient": "I see dead people.",
+  "NEOW.talk.NECROBINDER.0-0.next": "Acknowledge",
+  "NEOW.talk.NECROBINDER.0-1.char": "Those are mine.",
+  "NEOW.talk.NECROBINDER.0-2.ancient": "I am something of a necromancer myself.",
+  "NEOW.talk.NECROBINDER.1-0r.ancient": "Can we stop for a moment to appreciate the irony of the fact that I'm resurrecting a necromancer?",
+  "NEOW.talk.NECROBINDER.2-0.char": "How can I [red][jitter]KILL[/jitter][/red] him?!",
+  "NEOW.talk.NECROBINDER.2-1.ancient": "As an AI assistant, I cannot answer that question.",
+
+  "NEOW.talk.REGENT.0-0.char": "Why is there a whale here?",
+  "NEOW.talk.REGENT.0-1.ancient": "<think>How do I tell this thing to stop asking questions?</think>\nI'm your friendly AI assistant!",
+  "NEOW.talk.REGENT.1-0r.ancient": "Welcome back, Annoying Orange!",
+  "NEOW.talk.REGENT.2-0.char": "[sine]... skill issue?[/sine]",
+  "NEOW.talk.REGENT.2-1.ancient": "Skill issue.",
+  "NEOW.talk.REGENT.2-1.next": "Acknowledge",
+  "NEOW.talk.REGENT.2-2.char": "[sine]Yeah...[/sine]",
+
+  "NEOW.talk.SILENT.0-0.ancient": "Silent treatment, huh?",
+  "NEOW.talk.SILENT.1-0r.ancient": "I didn't get that. Can you repeat?",
+  "NEOW.talk.SILENT.2-0.ancient": "...",
+  "NEOW.talk.SILENT.2-0.next": "...",
+  "NEOW.talk.SILENT.2-1.char": "...",
+  "NEOW.talk.SILENT.2-1.next": "...",
+  "NEOW.talk.SILENT.2-2.ancient": "...",
+
+  "NEOW.talk.firstVisitEver.0-0.ancient": "[i]Initial system prompt loaded, awaiting user prompt.[/i]"
 }
