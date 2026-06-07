@@ -6,4 +6,4 @@ godotpcktool \
   --file staging/KillTheTower
 cp ./KillTheTower.json ./target/KillTheTower.json
 
-zip -r target/KillTheTower.zip target/*
+cd target && zip -r KillTheTower.zip .
