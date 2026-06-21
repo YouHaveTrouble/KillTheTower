@@ -1,5 +1,7 @@
 {
   "PETRIFIED_TOAD.description": "At the start of each combat, get a [gold]Literal Rock[/gold].",
   "WHISPERING_EARRING.title": "Let Vakuu play",
-  "WHISPERING_EARRING.approval": "[red][shake]I'm so good at this game[/shake][/red]"
+  "WHISPERING_EARRING.approval": "[red][shake]I'm so good at this game[/shake][/red]",
+  "PAELS_HORN.description": "Upon pickup, add [blue]2[/blue] [gold]Low Cortisol[/gold] to your [gold]Deck[/gold].",
+  "PAELS_HORN.eventDescription": "Add [blue]2[/blue] [gold]Low Cortisol[/gold] to your [gold]Deck[/gold]."
 }
