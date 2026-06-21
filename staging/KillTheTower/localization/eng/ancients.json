@@ -49,5 +49,20 @@
   "NEOW.talk.SILENT.2-1.next": "...",
   "NEOW.talk.SILENT.2-2.ancient": "...",
 
-  "NEOW.talk.firstVisitEver.0-0.ancient": "[i]Initial system prompt loaded, awaiting user prompt.[/i]"
+  "NEOW.talk.firstVisitEver.0-0.ancient": "[i]Initial system prompt loaded, awaiting user prompt.[/i]",
+
+  "THE_ARCHITECT.talk.NECROBINDER.0-0.char": "ARCHITECT! You killed my parents. You killed my friend. You killed my LIFE! ...and now I will kill YOU!",
+  "THE_ARCHITECT.talk.NECROBINDER.0-0.next": "Continue",
+  "THE_ARCHITECT.talk.NECROBINDER.0-1.ancient": "I'm not reading all that, happy for you, or sorry that it happened.",
+  "THE_ARCHITECT.talk.NECROBINDER.1-0r.char": "ARCHITECT! You killed my parents. You killed my friend. You killed my-",
+  "THE_ARCHITECT.talk.NECROBINDER.1-0r.next": "Continue",
+  "THE_ARCHITECT.talk.NECROBINDER.1-1r.ancient": "k.",
+  "THE_ARCHITECT.talk.NECROBINDER.2-0r.char": "ARCHITECT! You killed my parents. You killed my friend. You killed my LIFE-",
+  "THE_ARCHITECT.talk.NECROBINDER.2-0r.next": "Continue",
+  "THE_ARCHITECT.talk.NECROBINDER.2-1r.ancient": "Cool story.",
+  "THE_ARCHITECT.talk.NECROBINDER.3-0r.char": "ARCHITECT! You killed my parents. You killed my friend. You killed my-",
+  "THE_ARCHITECT.talk.NECROBINDER.3-0r.next": "Continue",
+  "THE_ARCHITECT.talk.NECROBINDER.3-1r.ancient": "Fascinating. Tell me more.",
+  "THE_ARCHITECT.talk.NECROBINDER.3-1r.next": "Continue",
+  "THE_ARCHITECT.talk.NECROBINDER.3-2r.char": "The audacity! I clawed all the way up here to [jitter][red]KILL YOU!![/red][/jitter] I[jitter][red]HATE[/red][/jitter] you! I hate [jitter][red]EVERYTHING[/red][/jitter] you represent as a person. [jitter][red]AAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaagh[/red][/jitter]"
 }
